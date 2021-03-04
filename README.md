@@ -10,8 +10,8 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on https://github.com/sampingantech
-- 🌱 I’m currently learning AndroidX & Kotlin Flow
+- 🌱 I’m currently learning Kotlin Multiplatform & Jetbrains Compose :)))
 - 👯 I’m looking to collaborate on Open Sources
 - 🤔 I’m looking for help with Android Security and Performances
 - 💬 Ask me about Android Stuff or engineering in general
-- 📫 How to reach me: mochadwi20 at gmail dot com
+- 📫 How to reach me: moch.iqbaldc at gmail dot com
