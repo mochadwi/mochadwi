@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on https://github.com/sampingantech
-- 🌱 I’m currently learning Kotlin Multiplatform & Jetbrains Compose :)))
+- 🌱 I’m currently learning Flutter for https://github.com/jejakshahabat :)))
 - 👯 I’m looking to collaborate on Open Sources
 - 🤔 I’m looking for help with Android Security and Performances
 - 💬 Ask me about Android Stuff or engineering in general
